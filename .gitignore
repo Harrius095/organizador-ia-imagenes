@@ -1,0 +1,17 @@
+
+# Carpetas que no deben subirse
+__pycache__/
+nuevas/
+revisar_manual/
+referencias_guardadas/
+
+# Archivos de memoria visual (pesados)
+*.pt
+
+# Archivos de entorno virtual (si usas uno)
+env/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
